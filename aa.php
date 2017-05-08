@@ -1,2 +1,4 @@
 <?php
-echo 1538;exit;
+echo 1538;
+echo "xiami";
+exit;
